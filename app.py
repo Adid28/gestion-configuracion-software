@@ -6,3 +6,8 @@ def hola_mundo():
 
 # Llamar a la función
 hola_mundo()
+
+def suma(a, b):
+    return a + b
+
+print("La suma de 5 + 3 es:", suma(5, 3))
